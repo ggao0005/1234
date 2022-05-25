@@ -21,13 +21,12 @@ summary(cars)
 
 ## Including Plots
 
-<<<<<<< HEAD
 ```{r}
 x = seq(1, 100)
 ```
 
-=======
+
 
 
 # I love green
->>>>>>> 1234
+
